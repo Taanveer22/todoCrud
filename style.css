@@ -1,0 +1,13 @@
+.title-bar{
+    background-color: greenyellow;
+    font-size: 22px;
+    padding: auto;
+    text-align: center;
+}
+
+.two-hundred-todos{
+    background-color: cadetblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
